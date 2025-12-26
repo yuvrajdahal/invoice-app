@@ -37,7 +37,7 @@ export default function Register() {
     <p className="text-gray-600 text-base">
       Already have an account?{" "}
       <Link
-        href="/register"
+        href="/login"
         className="text-teal-600 hover:text-teal-700 transition-colors"
       >
         Login
