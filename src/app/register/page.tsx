@@ -35,12 +35,12 @@ export default function Register() {
 
   const registerFooter = (
     <p className="text-gray-600 text-base">
-      Don't have an account?{" "}
+      Already have an account?{" "}
       <Link
         href="/register"
         className="text-teal-600 hover:text-teal-700 transition-colors"
       >
-        Register
+        Login
       </Link>
     </p>
   );
